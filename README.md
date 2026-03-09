@@ -23,7 +23,7 @@ A modern, desktop-based password generator built with Python and CustomTkinter. 
 - **Adjustable length** – slider from 3 to 30 characters with live display
 - **Auto-regenerate** – password updates automatically when you change settings
 - **History** – keeps last 10 passwords with strength, entropy, and time; copy any with one click
-- **Keyboard shortcuts** – `Ctrl+G` generate, `Ctrl+C` copy, `Ctrl+H` clear history, `Enter` generate
+- **Keyboard shortcuts** – `Ctrl+G` generate, `Enter` generate, `Ctrl+C` copy, `Ctrl+H` clear history
 - **Custom icon** – purple lock icon matching the app's colour palette
 
 ---
