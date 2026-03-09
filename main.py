@@ -179,12 +179,9 @@ class PasswordGeneratorApp(ctk.CTk):
         self.configure(fg_color=BG)
 
         # Icon – icon.ico must be in the same folder as the script
-        import os, sys
-        _base = os.path.dirname(os.path.abspath(__file__))
-        _icon = os.path.join(_base, "icon.ico")
-        if os.path.exists(_icon):
-            try: self.iconbitmap(default=_icon)
-            except Exception: pass
+        import os
+_icon = os.path.join(os.path.dirname(os.path.abspath(__file__)), "icon.ico")
+self.after(200, lambda: self.iconbitmap(_icon))
 
         self._history:    list[dict] = []
         self._animating:  bool       = False
