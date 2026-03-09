@@ -178,7 +178,7 @@ class PasswordGeneratorApp(ctk.CTk):
         self.resizable(False, False)
         self.configure(fg_color=BG)
 
-        # Ikona – icon.ico musi leżeć w tym samym folderze co skrypt
+        # Icon – icon.ico must be in the same folder as the script
         import os, sys
         _icon = os.path.join(os.path.dirname(os.path.abspath(sys.argv[0])), "icon.ico")
         if os.path.exists(_icon):
@@ -452,7 +452,7 @@ class PasswordGeneratorApp(ctk.CTk):
             w.destroy()
         if not self._history:
             ctk.CTkLabel(self._hist_scroll,
-                         text="Brak wygenerowanych haseł.",
+                         text="No passwords generated yet.",
                          font=ctk.CTkFont(family="Segoe UI", size=13),
                          text_color=MUTED).pack(pady=16)
             return
