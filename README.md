@@ -18,7 +18,7 @@ A modern, desktop-based password generator built with Python and CustomTkinter. 
   - 🟡 Yellow – Uppercase (A–Z)
   - 🔴 Red – Lowercase (a–z)
   - 🟢 Teal – Digits (0–9)
-  - 🩷 Pink – Special characters
+  - 🌸 Pink – Special characters
 - **Toggle switches** – pill-shaped toggles for selecting character types
 - **Adjustable length** – slider from 3 to 30 characters with live display
 - **Auto-regenerate** – password updates automatically when you change settings
